@@ -3,6 +3,7 @@
 # Kelas: **TI.24.A1**
 # NIM:**312410163**
 
+```
 1. DATA LIST
    "C:\Users\Lenovo\Pictures\Screenshots\Screenshot 2025-10-07 180135.png"
 
